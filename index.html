@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>God Save The Wurst</title>
+     <link rel="stylesheet" href="css/main.css">
+     <link href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <!-- START SCREEN -->
+  <div id="startScreen">
+    <h1 class="pixelify-sans-title">God Save The Wurst</h1>
+    <p>Press space or arrow-up to jump </p>
+    <button id="startBtn">Start Game</button>
+
+  </div>
+
+  <!-- GAME -->
+  <div id="gameWrapper" class="hidden">
+    <div id="player"></div>
+    <div id="obstacleContainer"></div>
+  </div>
+
+  <!-- GAME OVER -->
+  <div id="gameOver" class="hidden">
+    <h1 class="game-over-title">Game Over</h1>
+    <button id="restartBtn">Restart</button>
+  </div>
+
+  <script src="js/main.js" defer></script>
+</body>
+</html>
