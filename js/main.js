@@ -44,7 +44,7 @@ function handleJump(e) {
     jumpTimeout = setTimeout(() => {
       player.style.bottom = '20px';
       jumpTimeout = null;
-    }, 300);
+    }, 350);
   }
 }
 
