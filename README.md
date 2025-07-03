@@ -1,4 +1,3 @@
-# lab-game-2
 # God Save The Wurst
 
 A simple, fun retro-style browser game – jump over chocolate and safe the Wurst
