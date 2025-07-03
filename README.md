@@ -6,7 +6,7 @@ A simple, fun retro-style browser game – jump over chocolate and safe the Wurs
 
 ##  How to Play
 
--  **Arrow Up / Spacebar**: Jump# lab-game
+-  **Arrow Up / Spacebar**: Jump
 
 
 # https://logicenes.github.io/lab-game/
