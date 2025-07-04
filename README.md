@@ -6,9 +6,9 @@ A retro-style browser game where you help a skinny dog jump over chocolate and a
 
 ##  How to Play
 
-- **Jump**: Press `Arrow Up` or `Spacebar`
-- Avoid the chocolates – dogs can’t handle that much sweetness!
-- Survive as long as possible. After 3 hits, it’s game over.
+- Press `Arrow Up` or `Spacebar` to jump  
+- Avoid chocolate – it's toxic to the Wurst  
+- If you hit a chocolate, the game ends
 
 ---
 
