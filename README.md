@@ -28,12 +28,13 @@ A retro-style browser game where you help a skinny dog jump over chocolate and a
 
 ##  Project Structure
 
-- `index.html`
-- `css/main.css`
+- `css/`
+  - `images/` 
+  - `sounds/`
+  - `main.css`
 - `js/main.js`
-- `sounds/`
-- `images/`
-
+- `index.html`
+- `README.md`
 ---
 
 ##  Note
